@@ -1,3 +1,3 @@
-import { sampleValidate, anotherSampleValidate } from './sampleValidator';
+import { sampleValidate, anotherSampleValidate } from './categoryValidator';
 
 export { sampleValidate, anotherSampleValidate };

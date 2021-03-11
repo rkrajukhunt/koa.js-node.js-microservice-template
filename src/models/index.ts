@@ -1,2 +1,2 @@
-import Test from './test';
-export { Test };
+import Categorie from './category.modal';
+export { Categorie };
